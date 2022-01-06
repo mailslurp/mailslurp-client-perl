@@ -1,0 +1,22 @@
+# MailSlurp::Object::ContactProjection
+
+## Load the model package
+```perl
+use MailSlurp::Object::ContactProjection;
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** |  | [optional] 
+**group_id** | **string** |  | [optional] 
+**first_name** | **string** |  | [optional] 
+**last_name** | **string** |  | [optional] 
+**company** | **string** |  | [optional] 
+**email_addresses** | **ARRAY[string]** |  | [optional] 
+**opt_out** | **boolean** |  | [optional] 
+**created_at** | **DateTime** |  | [optional] 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
+
