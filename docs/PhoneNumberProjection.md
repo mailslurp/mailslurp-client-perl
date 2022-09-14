@@ -1,0 +1,19 @@
+# MailSlurp::Object::PhoneNumberProjection
+
+## Load the model package
+```perl
+use MailSlurp::Object::PhoneNumberProjection;
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** |  | 
+**user_id** | **string** |  | 
+**phone_number** | **string** |  | 
+**created_at** | **DateTime** |  | 
+**phone_country** | **string** |  | 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
+
