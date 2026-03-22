@@ -1,0 +1,16 @@
+# MailSlurp::Object::DomainMonitorRunNowResult
+
+## Load the model package
+```perl
+use MailSlurp::Object::DomainMonitorRunNowResult;
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**monitor** | [**DomainMonitorDto**](DomainMonitorDto) |  | 
+**run** | [**DomainMonitorRunDto**](DomainMonitorRunDto) |  | 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
+
