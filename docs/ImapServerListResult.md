@@ -1,0 +1,15 @@
+# MailSlurp::Object::ImapServerListResult
+
+## Load the model package
+```perl
+use MailSlurp::Object::ImapServerListResult;
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**results** | [**ARRAY[ImapEmailProjection]**](ImapEmailProjection) |  | 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
+

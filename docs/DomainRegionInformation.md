@@ -1,0 +1,21 @@
+# MailSlurp::Object::DomainRegionInformation
+
+## Load the model package
+```perl
+use MailSlurp::Object::DomainRegionInformation;
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**domain_name** | **string** |  | 
+**verified** | **boolean** |  | 
+**domain_type** | **string** | Type of domain. Dictates type of inbox that can be created with domain. HTTP means inboxes are processed using SES while SMTP inboxes use a custom SMTP mail server. SMTP does not support sending so use HTTP for sending emails. | 
+**account_region** | **string** |  | [optional] 
+**creation_enabled** | **boolean** |  | 
+**sending_enabled** | **boolean** |  | 
+**active** | **boolean** |  | 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
+
